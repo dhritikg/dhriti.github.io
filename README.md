@@ -13,7 +13,7 @@ Hello! I am a second year student from the School of Mathematics and Computer Sc
 
 | Academic Year | Standard | School Name      |
 |---------------|----------|------------------|
-| 2018-2020        | High School     | Swami Vivekanand School   |
+| 2018-2020        | High School     | Swami Vivekanand International School and Junior College|
 | 2020-2022       | Junior College | Pace Junior Science College|
 | 2022-2026       | BTech in Mathematics and Computing | IIT Goa|
 
@@ -24,12 +24,12 @@ Hello! I am a second year student from the School of Mathematics and Computer Sc
 
 ## Spring Semester
 
-1. *CS102* - [Software Tools](https://docs.google.com/spreadsheets/d/1hU16MszRAAoRZ3fESZbxkOT5Ax4mj8_scytjqvzQHis/edit#gid=0) (Dr. Clint George)
-2. *MA202* - [Multivariate Calculus](https://docs.google.com/spreadsheets/d/1hU16MszRAAoRZ3fESZbxkOT5Ax4mj8_scytjqvzQHis/edit#gid=0) (Dr. Shiv Parsad)
-3. *MA205* - [Algebra](https://docs.google.com/spreadsheets/d/1hU16MszRAAoRZ3fESZbxkOT5Ax4mj8_scytjqvzQHis/edit#gid=0) (Dr. Sandipan De)
-4. *MA203* - [Numerical Analysis](https://docs.google.com/spreadsheets/d/1hU16MszRAAoRZ3fESZbxkOT5Ax4mj8_scytjqvzQHis/edit#gid=0) (Dr. Rajeev Gupta, Dr. Saumya Bajpai)
-5. *CS222* - [Algorithm Design](https://docs.google.com/spreadsheets/d/1hU16MszRAAoRZ3fESZbxkOT5Ax4mj8_scytjqvzQHis/edit#gid=0) (Dr. Arpita Korwar, Dr. Rahul C S)
-6. *ID601* - [Numerical Simulation](https://docs.google.com/spreadsheets/d/1hU16MszRAAoRZ3fESZbxkOT5Ax4mj8_scytjqvzQHis/edit#gid=0) (Dr. Jhuma Sannigrahi)
+- *CS102* - [Software Tools](https://docs.google.com/spreadsheets/d/1hU16MszRAAoRZ3fESZbxkOT5Ax4mj8_scytjqvzQHis/edit#gid=0) (Dr. Clint George)
+- *MA202* - [Multivariate Calculus](https://docs.google.com/spreadsheets/d/1hU16MszRAAoRZ3fESZbxkOT5Ax4mj8_scytjqvzQHis/edit#gid=0) (Dr. Shiv Parsad)
+- *MA205* - [Algebra](https://docs.google.com/spreadsheets/d/1hU16MszRAAoRZ3fESZbxkOT5Ax4mj8_scytjqvzQHis/edit#gid=0) (Dr. Sandipan De)
+- *MA203* - [Numerical Analysis](https://docs.google.com/spreadsheets/d/1hU16MszRAAoRZ3fESZbxkOT5Ax4mj8_scytjqvzQHis/edit#gid=0) (Dr. Rajeev Gupta, Dr. Saumya Bajpai)
+- *CS222* - [Algorithm Design](https://docs.google.com/spreadsheets/d/1hU16MszRAAoRZ3fESZbxkOT5Ax4mj8_scytjqvzQHis/edit#gid=0) (Dr. Arpita Korwar, Dr. Rahul C S)
+- *ID601* - [Numerical Simulation](https://docs.google.com/spreadsheets/d/1hU16MszRAAoRZ3fESZbxkOT5Ax4mj8_scytjqvzQHis/edit#gid=0) (Dr. Jhuma Sannigrahi)
 
 ## Autumn Semester
 
