@@ -1,0 +1,126 @@
+
+/* First section: About me */
+#about-me {
+    border: 2pt solid black;
+    background-color: light salmon;
+}
+  
+#about-me h2 {
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 13pt;
+    text-align: left;
+}
+  
+#about-me img {
+    width: 172pt;
+    height: 172pt;
+    float: right;
+}
+  
+#about-me p {
+    font-family: sans-serif;
+    color: blue;
+}
+  
+/* Second section: Education */
+#education {
+    border-spacing: 10pt;
+    background-color: light blue;
+}
+  
+#education th {
+    text-decoration: underline;
+}
+  
+#education td {
+    padding: 10pt;
+}
+  
+#education td:nth-child(2) {
+    text-align: center;
+}
+  
+#education td:first-child,
+#education td:last-child {
+    text-align: left;
+}
+  
+/* Third section: Courses @IIT Goa */
+.courses{
+    background-color: #98fb98; 
+}
+.spring-semester,
+.autumn-semester {
+    border: 3pt solid;
+    flex: 1;
+    margin: 10px;
+    display: flex;
+    flex-direction: column;
+}
+
+.spring-semester ul,
+.autumn-semester ol {
+    flex: 1;
+}
+
+.spring-semester ul,
+.autumn-semester ol {
+    width: 100%;
+}
+  
+.spring-semester {
+    background-color: green;
+    float: left; 
+}
+
+.autumn-semester {
+    background-color: lightpink;
+    float: right; 
+}
+  
+.spring-semester a:link {
+    color: blue;
+}
+  
+.spring-semester a:visited {
+    color: gray;
+}
+  
+.spring-semester a:hover {
+    color: rgb(72, 167, 72);
+}
+  
+.spring-semester a:active {
+    color: pink;
+}
+  
+.autumn-semester a:link {
+    color: blue;
+}
+  
+.autumn-semester a:visited {
+    color: gray;
+}
+  
+.autumn-semester a:hover {
+    color: rgb(72, 167, 72);
+}
+  
+.autumn-semester a:active {
+    color: pink;
+}
+  
+/* Fourth section: Hobbies, Interests, Extracurricular Activities, Projects */
+.hobbies{
+    background-color: #fff0f5; 
+    color: #c71585; 
+    margin: 20px 0; 
+    padding: 20px
+}
+  
+  /* Page background image */
+body {
+    background-image: url('https://pics.craiyon.com/2023-05-29/56b3c1d4b89b4770833d5e989b81d3df.webp');
+}
+  
